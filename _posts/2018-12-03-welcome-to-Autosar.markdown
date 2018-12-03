@@ -7,7 +7,7 @@ categories: Autosar update
 description: Introduction to Autosar!
 backgroundimg: /images/about.jpg
 ---
-Automotive open system architecture(AUTOSAR) is the standardised architecture developed by some of the leading automotive companies for developing automotive softwares for ECUs.
+Automotive open system architecture(AUTOSAR) is the standardised architecture developed by some of the leading automotive companies to develop automotive softwares for ECUs.
 Autosar has developed in order to abolish the application software component dependancy with the underlying hardware, so that the 
 application can be indipendantly developed without worrying about the poratability to any hardware.
 
