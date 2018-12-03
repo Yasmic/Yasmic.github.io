@@ -1,7 +1,6 @@
 # Site settings
 title: Autosar
-email: Yasmic 
-       yami.cm88@gmail.com
+email: yami.cm88@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Automotive open system architecture(AUTOSAR) is the standardasied architecture developed by some of the leading automotive companies for developing automotive softwares for ECUs.
   Autosar has developed in order to abolish the application software component dependancy with the underlying hardware, so that the 
