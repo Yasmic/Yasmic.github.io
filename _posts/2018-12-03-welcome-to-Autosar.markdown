@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Autosar !"
+title:  "Introduction to Autosar !"
 date:   2018-12-03 10:58:37
 categories: Autosar update
 
-description: Welcome to Autosar!
+description: Introduction to Autosar!
 backgroundimg: /images/about.jpg
 ---
 Automotive open system architecture(AUTOSAR) is the standardised architecture developed by some of the leading automotive companies for developing automotive softwares for ECUs.
