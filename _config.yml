@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Automotive open system architecture(AUTOSAR) is the standardasied architecture developed by some of the leading automotive companies for developing automotive softwares for ECUs.
   Autosar has developed in order to abolish the application software component dependancy with the underlying hardware, so that the 
   application can be indipendantly developed without worrying about the poratability to any hardware.
-  Autosar architecture is divided in to:-
+  Autosar architecture is divided in to 3 layers
    1-Application  2-Run time environment(RTE) and, 3-Basic software(BSW)
   Application:-
     Application layer can have many application software components(ASWC) which are interacting to the hardware with help of a virtual function bus called as RTE.
@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
     RTE provides an interface(virtual funciton bus) to interact any application to the BSW or to another application in the same ECU /another ECU(Both intra ECU and inter ECU 
     communication are established with the help of RTE)
   Basic Software component:-
-    Basic software is divided in to 3 layers-Service layer,ECU abstraction layer and ,Micro controller abstraction layer.
+    Basic software is divided as-Service layer,ECU abstraction layer and ,Micro controller abstraction layer and Complex device drivers.
     There are multiple components in BSW layers which helps in reaching the data from the source to the destination sucessfully.
   
 baseurl: "" # the subpath of your site, e.g. /blog/
