@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Autosar Core Members !"
+title:  "Introduction to Autosar !"
 date:   2018-12-03 10:58:37
 categories: Autosar update
 
