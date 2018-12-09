@@ -6,10 +6,22 @@ description: > # this means to ignore newlines until "baseurl:"
   Automotive open system architecture(AUTOSAR) is the standardasied architecture developed by some of the leading automotive companies for developing automotive softwares for ECUs.
   Autosar has developed in order to abolish the application software component dependancy with the underlying hardware, so that the 
   application can be indipendantly developed without worrying about the poratability to any hardware.
+  Autosar architecture is divided in to:-
+   1-Application  2-Run time environment(RTE) and, 3-Basic software(BSW)
+  Application:-
+    Application layer can have many application software components(ASWC) which are interacting to the hardware with help of a virtual function bus called as RTE.
+    in Autosar the application software components are developed irresponspective of the hardware(ECU).
+  Run Time Environment:-
+    RTE provides an interface(virtual funciton bus) to interact any application to the BSW or to another application in the same ECU /another ECU(Both intra ECU and inter ECU 
+    communication are established with the help of RTE)
+  Basic Software component:-
+    Basic software is divided in to 3 layers-Service layer,ECU abstraction layer and ,Micro controller abstraction layer.
+    There are multiple components in BSW layers which helps in reaching the data from the source to the destination sucessfully.
+  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  yasmic
 
 # Build settings
 markdown: kramdown
