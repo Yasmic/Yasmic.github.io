@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
    1-Application  2-Run time environment(RTE) and, 3-Basic software(BSW)
   Application:-
     Application layer can have many application software components(ASWC) which are interacting to the hardware with help of a virtual function bus called as RTE.
-    in Autosar the application software components are developed irresponspective of the hardware(ECU).
+    In Autosar the application software components are developed irrespective of the hardware(ECU).
   Run Time Environment:-
     RTE provides an interface(virtual funciton bus) to interact any application to the BSW or to another application in the same ECU /another ECU(Both intra ECU and inter ECU 
     communication are established with the help of RTE)
