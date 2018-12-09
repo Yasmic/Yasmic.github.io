@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Introduction to Autosar !"
 date:   2018-12-03 10:58:37
 categories: Autosar update
