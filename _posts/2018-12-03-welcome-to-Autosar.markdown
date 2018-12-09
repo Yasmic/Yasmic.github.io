@@ -20,15 +20,15 @@ Autosar architecture is divided in to 3 layers
    ![](/images/autosar_basic/autosar_Snip1.jpg)
     
   Application:-
-> Application layer can have many application software components (ASWC) which are interacting to the hardware with the help of a virtual
-> function bus called as RTE.
-> In Autosar the application software components are developed irrespective of the hardware (ECU).
+      Application layer can have many application software components (ASWC) which are interacting to the hardware with the help of a     
+      virtual function bus called as RTE.
+      In Autosar the application software components are developed irrespective of the hardware (ECU).
     
   Run Time Environment:-
-> RTE provides an interface (virtual function bus) to interact any application to the BSW/application for intra ECU and inter ECU 
-> communication.
+       RTE provides an interface (virtual function bus) to interact any application to the BSW/application for intra ECU and inter ECU 
+       communication.
     
   Basic Software component:-
- > Basic software is divided in to-Service layer, ECU abstraction layer,Micro controller abstraction layer and Complex device drivers.
- > There are multiple components in the  BSW layers which are required  for the proper data transmission and reception.
+       Basic software is divided in to-Service layer, ECU abstraction layer,Micro controller abstraction layer and Complex device drivers.
+       There are multiple components in the  BSW layers which are required  for the proper data transmission and reception.
 
