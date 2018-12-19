@@ -27,9 +27,9 @@ Application  layer of autosar can contain multiple applications,  which are call
  Types of  software components
  
  
-   1-Automic Application software component
-   2-Sensor or Actuator Software Component
-   3-Composite Software Component
+   1. Automic Application software component
+   2. Sensor or Actuator Software Component
+   3. Composite Software Component
  
  Automatic Software Component
   
