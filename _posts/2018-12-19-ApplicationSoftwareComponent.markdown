@@ -19,8 +19,8 @@ Application  layer of autosar can contain multiple applications,  which are call
  Ex:- Application 1 is sending data to application 2 
  
  
-     Application 1 runnable entity is configured with 10ms timing event-So every 10 ms the data will be sending from application1 .
-     Application 2 runnable entity is configured with 20ms timing event-So once in every 20ms the data will be read by Application 2.
+   Application 1 runnable entity is configured with 10ms timing event-So every 10 ms the data will be sending from application1 .
+   Application 2 runnable entity is configured with 20ms timing event-So once in every 20ms the data will be read by Application 2.
  
  Types of  software components
  
@@ -28,3 +28,5 @@ Application  layer of autosar can contain multiple applications,  which are call
       1-Automic Application software component
       2-Sensor or Actuator Software Component
       3-Composite Software Component
+  
+  
