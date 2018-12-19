@@ -16,9 +16,15 @@ Application  layer of autosar can contain multiple applications,  which are call
  Application software components has well defined ports for sending and receiving information and it has an entity called as runnable(in simple term- Function which is called in OS), helpful for receiving and sending information,invoking functionalities etc either cyclically or  event triggered.
  
  
- Ex:- Application1 is sending data to application 2 
+ Ex:- Application 1 is sending data to application 2 
  
  
      Application 1 runnable entity is configured with 10ms timing event-So every 10 ms the data will be sending from application1 .
      Application 2 runnable entity is configured with 20ms timing event-So once in every 20ms the data will be read by Application 2.
  
+ Types of  software components
+ 
+ 
+      1-Automic Application software component
+      2-Sensor or Actuator Software Component
+      3-Composite Software Component
