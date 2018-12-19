@@ -19,10 +19,11 @@ Application  layer of autosar can contain multiple applications,  which are call
  Ex:- Application 1 is sending data to application 2 
  
  
-   Application 1 runnable entity is configured with 10ms timing event-So every 10 ms the data will be sending from application 1 .
-   
-   
-   Application 2 runnable entity is configured with 20ms timing event-So once in every 20ms the data will be read by Application 2.
+   Application 1 runnable entity is configured with 10ms timing event-So every 10 ms the data will be sending 
+   from application 1 .
+    
+   Application 2 runnable entity is configured with 20ms timing event-So once in every 20ms the data will be read by 
+   Application 2.
  
  Types of  software components
  
